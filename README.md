@@ -11,35 +11,37 @@ Home| Pluralist Dialectics Society
 <nav>
 <ul class="menu">
 <li>
-<a href="#"> HOME </a>
+<a href="https://pluralistdialectics.github.io/"> HOME </a>
 </li>
 <li>
-<a href="#"> MEMBERS </a>
+<a href="./members"> MEMBERS </a>
 </li>
 <li>
-<a href="#"> EVENTS </a>
+<a href="./events"> EVENTS </a>
 </li>
 <li>
-<a href="#"> RESOURCES </a>
+<a href="./resources"> RESOURCES </a>
 </li>
 <li>
-<a href="#"> BLOG/NEWS </a>
+<a href="./blog-news"> BLOG/NEWS </a>
 </li>
 <li>
-<a href="#"> FAQs </a>
+<a href="./FAQs"> FAQs </a>
 </li>
 <li>
-<a href="#"> GALLLERY </a>
+<a href="./gallery"> GALLLERY </a>
 </li>
 <li>
-<a href="#"> ABOUT US </a>
+<a href="./about-us"> ABOUT US </a>
 </li>
 <li>
-<a href="#"> CONTACT US </a>
+<a href="./contact-us"> CONTACT US </a>
 </li>
 </ul>
 </nav>
 
 </body>
+
+
 
 
