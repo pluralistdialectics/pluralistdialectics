@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <head>
 <link rel="stylesheet"  type="text/css" href="main.css" />
 <title>
@@ -42,4 +42,4 @@ Home| Pluralist Dialectics Society
 
 </body>
 
-</html>
+
