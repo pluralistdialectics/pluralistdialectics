@@ -6,7 +6,7 @@ Home| Pluralist Dialectics Society
 </title>
 <head>
 <body>
-<h1 class="family1"> PLuralist Dialectics Society </h1>
+<h1 class="family1"> Pluralist Dialectics Society </h1>
 <h1 style="text-align:center;">(बहुलवादी द्वंद्वात्मक समाज)</h1>
 <h2 style="text-align:center; text-decoration:underline;"> वादे वादे जायते तत्वबोध: </h2>
 <nav>
